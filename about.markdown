@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Edgar Nova is a systems engineer with a master's degree
+on software engineering, with more than 12 years of
+experience in the software development industry, currently
+working remotely.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Edgar's interests include:
+- Recreative programming
+- Best practices of software engineering
+- Machine learning
+- Computer music
+- Learning ~~obscure~~ different programming languages
