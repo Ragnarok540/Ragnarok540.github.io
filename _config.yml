@@ -30,16 +30,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Ragnarok540
 
 # Build settings
-theme: minima
+# theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
-minima:
-  skin: dark
-  social_links:
-    - title: Repository at GitHub
-      icon: github
-      url: "https://github.com/Ragnarok540"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
